@@ -29,9 +29,9 @@ export default {
 		stopResponding: '停止响应',
   },
   chat: {
-    newChatButton: '新建聊天',
-    placeholder: '来说点什么吧...（Shift + Enter = 换行，"/" 触发提示词）',
-    placeholderMobile: '来说点什么...',
+    newChatButton: '新聊天',
+    placeholder: '初三七班低调极客Syskuku（Shift + Enter = 换行，"/" 触发提示词）',
+    placeholderMobile: 'SYSKUKU研究部 Chat start',
     copy: '复制',
     copied: '复制成功',
     copyCode: '复制代码',
