@@ -30,8 +30,8 @@ export default {
   },
   chat: {
     newChatButton: '新聊天',
-    placeholder: '初三七班低调极客Syskuku（Shift + Enter = 换行，"/" 触发提示词）',
-    placeholderMobile: 'SYSKUKU研究部 Chat start',
+    placeholder: '开始与SYSKUKU Chat聊天...（Shift + Enter = 换行，"/" 触发提示词）初三七班低调极客',
+    placeholderMobile: 'SYSKUKU研究部 Chat start...',
     copy: '复制',
     copied: '复制成功',
     copyCode: '复制代码',
