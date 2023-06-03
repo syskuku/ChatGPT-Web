@@ -481,7 +481,7 @@ onUnmounted(() => {
           <template v-if="!dataSources.length">
             <div class="flex items-center justify-center mt-4 text-center text-neutral-300">
               <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
-              <span>Aha~</span>
+              <span>七班大型AI CHAT模型by SYSKUKU研究部 原作者GitHub：ChenZhaoYu</span>
             </div>
           </template>
           <template v-else>
